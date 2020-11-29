@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>10000</CruisingAlt>
+      <CreationDate>2020-11-28T11:08:41</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.4.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <Departure>
+      <Pos Lon="9.200596" Lat="48.685822" Alt="1276.00"/>
+      <Start>07</Start>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Stuttgart</Name>
+        <Ident>EDDS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.221964" Lat="48.689877" Alt="1276.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.066849" Lat="48.726528" Alt="3429.93"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.113884" Lat="48.748039" Alt="4177.77"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.080925" Lat="48.784019" Alt="5010.43"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.128475" Lat="48.830036" Alt="6113.16"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.173794" Lat="48.863697" Alt="7004.09"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Pattonville</Name>
+        <Ident>EDTQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.224076" Lat="48.864094" Alt="7659.46"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.273988" Lat="48.873634" Alt="8336.78"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.339562" Lat="48.819752" Alt="9704.39"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP8</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.573194" Lat="48.802567" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP9</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.759789" Lat="48.787189" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP10</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.828454" Lat="48.802456" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP11</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.859353" Lat="48.794312" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP12</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.929085" Lat="48.803303" Alt="9632.38"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP13</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.092506" Lat="48.833084" Alt="7420.47"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP14</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.114822" Lat="48.873295" Alt="6572.40"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP15</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.165977" Lat="48.885262" Alt="5865.01"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP16</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.341072" Lat="48.862907" Alt="3540.94"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nördlingen</Name>
+        <Ident>EDNO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.506109" Lat="48.871151" Alt="1384.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

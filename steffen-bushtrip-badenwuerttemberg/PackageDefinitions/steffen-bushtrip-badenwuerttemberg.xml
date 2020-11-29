@@ -1,0 +1,31 @@
+<AssetPackage Name="steffen-bushtrip-badenwuerttemberg" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>steffen-bushtrip-badenwuerttemberg</Title>
+		<Manufacturer>Steffen</Manufacturer>
+		<Creator>Steffen</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\steffen-bushtrip-badenwuerttemberg</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="steffen-bushtrip-badenwuerttemberg">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>source</AssetDir>
+			<OutputDir>Missions\steffen-bushtrip-badenwuerttembergDir</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

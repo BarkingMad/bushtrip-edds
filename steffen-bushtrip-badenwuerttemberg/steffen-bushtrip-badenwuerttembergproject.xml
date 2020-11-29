@@ -1,0 +1,8 @@
+<Project Version="2" Name="steffen-bushtrip-badenwuerttembergproject" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\steffen-bushtrip-badenwuerttemberg.xml</Package>
+	</Packages>
+</Project>
+
