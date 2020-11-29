@@ -3,4 +3,4 @@
  
  
  ## Planned route
- [Map showing all flights planned in this bushtrip](trips.png)
+ ![Map showing all flights planned in this bushtrip](trip.png)
