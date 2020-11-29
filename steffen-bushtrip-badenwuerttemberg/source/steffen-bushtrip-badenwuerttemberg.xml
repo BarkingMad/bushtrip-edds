@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <SimBase.Document Type="MissionFile" version="1,0" id="steffen-bushtrip-badenwuerttemberg">
-  <Title>Rund um Baden-Württemberg</Title>
+  <Title>steffen-bushtrip-badenwuerttemberg</Title>
   <Filename>steffen-bushtrip-badenwuerttemberg.spb</Filename>
   <WorldBase.Flight InstanceId="{9104F8D7-DC5B-453D-A7A4-6FE64834CF9A}">
     <SimMission.MissionBushTrip InstanceId="{3A6B7600-FAF1-4840-897B-D19749B4F698}" id="Bushtrip_steffen-bushtrip-badenwuerttemberg">
-      <Descr>Rund um Baden-Württemberg</Descr>
+      <Descr>steffen-bushtrip-badenwuerttemberg</Descr>
       <Legs>
         <Leg>
           <Descr>DESC1</Descr>
@@ -74,42 +74,42 @@
               <Descr>Nach dem Abheben in Pattonville fliegst du nach Osten und folgst dem Neckar für ein kurzes Stück nach Norden bis zur Remsmündung in Remseck.</Descr>
               <ATCWaypointStart id="EDTQ">
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI1">
+              <ATCWaypointEnd id="POI6">
                 <idRegion>!B</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>An der Remsmündung fliegst du eine scharfe Rechtskurve und folgst dem gewundenen und von Bäumen gesäumten Verlauf der Rems nach Waiblingen Beinstein. </Descr>
-              <ATCWaypointStart id="POI1">
+              <Descr>An der Remsmündung fliegst du eine scharfe Rechtskurve und folgst dem gewundenen und von Bäumen gesäumten Verlauf der Rems nach Waiblingen Beinstein.</Descr>
+              <ATCWaypointStart id="POI6">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI2">
+              <ATCWaypointEnd id="POI7">
                 <idRegion>!B</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Die Rems führt dich in das von Weinbergen gesäumte Remstal. Bei Beinstein wird auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein.</Descr>
-              <ATCWaypointStart id="POI2">
+              <ATCWaypointStart id="POI7">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI3">
+              <ATCWaypointEnd id="POI8">
                 <idRegion>!B</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Bei Schorndorf macht die B29 einen großen Bogen an der linken Talseite. Vor dir kannst du die Wieslauf von links kommend in die Rems münden sehen. Überfliege die Seen des Landschaftsschutzgebietes "Morgensand und Seelachen" bei Urbach und folge der Rems weiter durch das enger werdende Tal bis nach Schwäbisch Gmünd.</Descr>
-              <ImagePath>images\Gmünd.png</ImagePath>
-              <ATCWaypointStart id="POI3">
+              <ImagePath>images\Gmuend.png</ImagePath>
+              <ATCWaypointStart id="POI8">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI4">
+              <ATCWaypointEnd id="POI9">
                 <idRegion>!B</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>In Schwäbisch Gmünd verschwindet die B29 in den Einhorntunnel, die Rems schlängelt sich durch ein renaturiertes Flussbett durch das Stadtgebiet. Verlasse nun das Remstal und drehe nach rechts in Richtung Süd-Osten ab. Kurze Zeit später erreichst du das Etappenziel auf dem Hornberg.</Descr>
               <ImagePath>images\ED36.png</ImagePath>
-              <ATCWaypointStart id="POI4">
+              <ATCWaypointStart id="POI9">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
               <ATCWaypointEnd id="ED36">
@@ -125,60 +125,60 @@
               <Descr>Nach dem Start auf dem Hornberg fliegst du zurück nach Norden, bis du wieder die Rems unter dir hast. Folge der Rems weiter in Richting Osten.</Descr>
               <ATCWaypointStart id="ED36">
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI1">
+              <ATCWaypointEnd id="POI10">
                 <idRegion>!C</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Folge der Rems weiter nach Osten bis sie sich kurz vor Essingen teilt und der größere Arm nach rechts aus dem Tal hinaus verschwindet.</Descr>
-              <ATCWaypointStart id="POI1">
+              <ATCWaypointStart id="POI10">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI2">
+              <ATCWaypointEnd id="POI11">
                 <idRegion>!C</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Fliege weiter geradeaus bis du die große Kreisstadt Aalen erreichst.</Descr>
-              <ATCWaypointStart id="POI2">
+              <ATCWaypointStart id="POI11">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI3">
+              <ATCWaypointEnd id="POI12">
                 <idRegion>!C</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Über Aalen drehst du nach links und folgst der großen Straße und Bahnlinie in Richtung Nord-Nordost.</Descr>
-              <ATCWaypointStart id="POI3">
+              <ATCWaypointStart id="POI12">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI4">
+              <ATCWaypointEnd id="POI13">
                 <idRegion>!C</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Wenn die Bahn sich nach links von der Straße abspaltet, orientiere dich weiter nach rechts und folge der Straße zur Autobahn A7, ddie von Nord nach Süd die Landschaft teilt.</Descr>
-              <ATCWaypointStart id="POI4">
+              <ATCWaypointStart id="POI13">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI5">
+              <ATCWaypointEnd id="POI14">
                 <idRegion>!C</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>Folge weiter der kleinen Straße unter dir und lass die A7 hinter dir zurück. Rechts von dir kannst du vielleicht auf der Anhöhe Schloss Kapfenburg erkennen. Vor dir taucht die markante Silhouette des Hügels "Ipf" auf.  </Descr>
+              <Descr>Folge weiter der kleinen Straße unter dir und lass die A7 hinter dir zurück. Rechts von dir kannst du vielleicht auf der Anhöhe Schloss Kapfenburg erkennen. Vor dir taucht die markante Silhouette des Hügels "Ipf" auf.</Descr>
               <ImagePath>images\Ipf.png</ImagePath>
-              <ATCWaypointStart id="POI5">
+              <ATCWaypointStart id="POI14">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
-              <ATCWaypointEnd id="POI6">
+              <ATCWaypointEnd id="POI15">
                 <idRegion>!C</idRegion>
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
               <Descr>Fliege rechts am Ipf vorbei und folge dem Fluss Eger unter dir nach Nördlingen mit seiner runden Altstadt. Du überflieegst gerade das Nördlinger Ries, einen Meteoritenkrater und hast nun auch Baden-Württemberg verlassen. Im Nord-Osten von Nördlingen liegt der Zielflughafen dieser Etappe. Willkommen im bayrischen Schwaben!</Descr>
               <ImagePath>images\EDNO.png</ImagePath>
-              <ATCWaypointStart id="POI6">
+              <ATCWaypointStart id="POI15">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
               <ATCWaypointEnd id="EDNO">

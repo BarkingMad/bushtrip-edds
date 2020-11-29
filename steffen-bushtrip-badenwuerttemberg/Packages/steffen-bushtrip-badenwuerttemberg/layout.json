@@ -2,108 +2,108 @@
   "content": [
     {
       "path": "ContentInfo/steffen-bushtrip-badenwuerttemberg/Thumbnail.jpg",
-      "size": 45567,
-      "date": 132510797237373861
+      "size": 7696,
+      "date": 132511389921218690
     },
     {
       "path": "de-DE.locPak",
       "size": 78,
-      "date": 132511231828052933
+      "date": 132511394347987149
     },
     {
       "path": "en-US.locPak",
       "size": 78,
-      "date": 132511231828052933
+      "date": 132511394347977178
     },
     {
       "path": "es-ES.locPak",
       "size": 78,
-      "date": 132511231828043022
+      "date": 132511394347967203
     },
     {
       "path": "fr-FR.locPak",
       "size": 78,
-      "date": 132511231828062906
+      "date": 132511394347987149
     },
     {
       "path": "it-IT.locPak",
       "size": 78,
-      "date": 132511231828062906
+      "date": 132511394347987149
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/Activity_Widget.jpg",
       "size": 160519,
-      "date": 132510790906337672
+      "date": 132510790900000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/ED36.jpg",
       "size": 425390,
-      "date": 132510792784222437
+      "date": 132510792780000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/ED36.png",
       "size": 1655275,
-      "date": 132510793209833433
+      "date": 132510793200000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/EDNO.jpg",
       "size": 305873,
-      "date": 132510793740233935
+      "date": 132510793740000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/EDNO.png",
       "size": 1499364,
-      "date": 132510794037951873
+      "date": 132510794030000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/EDTQ.jpg",
       "size": 472650,
-      "date": 132510791668763157
+      "date": 132510791660000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/EDTQ.png",
       "size": 1703203,
-      "date": 132510792228949755
+      "date": 132510792220000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/Gmünd.png",
       "size": 1981451,
-      "date": 132510795163081965
+      "date": 132510795160000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/Ipf.png",
       "size": 1848348,
-      "date": 132511228052021422
+      "date": 132511228050000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/Loading_Screen.jpg",
       "size": 464242,
-      "date": 132510790243038471
+      "date": 132510790240000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/images/uni.png",
       "size": 2063966,
-      "date": 132510795836964641
+      "date": 132510795830000000
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/steffen-bushtrip-badenwuerttemberg.FLT",
-      "size": 12526,
-      "date": 132511210925111170
+      "size": 11853,
+      "date": 132511389935628718
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/steffen-bushtrip-badenwuerttemberg.loc",
       "size": 304,
-      "date": 132511198026219560
+      "date": 132511389935099012
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/steffen-bushtrip-badenwuerttemberg.PLN",
       "size": 5062,
-      "date": 132511198026309340
+      "date": 132511389935648460
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/steffen-bushtrip-badenwuerttemberg.spb",
-      "size": 15213,
-      "date": 132511231827424633
+      "size": 15238,
+      "date": 132511394343037092
     },
     {
       "path": "Missions/steffen-bushtrip-badenwuerttembergDir/Weather.WPR",
@@ -113,22 +113,22 @@
     {
       "path": "pl-PL.locPak",
       "size": 78,
-      "date": 132511231828043022
+      "date": 132511394347967203
     },
     {
       "path": "pt-BR.locPak",
       "size": 78,
-      "date": 132511231828032991
+      "date": 132511394347957233
     },
     {
       "path": "ru-RU.locPak",
       "size": 78,
-      "date": 132511231828052933
+      "date": 132511394347977178
     },
     {
       "path": "zh-CN.locPak",
       "size": 78,
-      "date": 132511231828052933
+      "date": 132511394347977178
     }
   ]
 }
