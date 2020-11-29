@@ -38,7 +38,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>Über dem Geländer der Universität drehst du nach Norden und überfliegst den Bärenschlosspark mit seinen Seen. Wenn du unter dir auf eine Straße durch den Wald triffst, folge ihr nach links in Richtung Nord-Nordost bis zum Schloss Solitude.</Descr>
+              <Descr>Über dem Gelände der Universität drehst du nach Norden und überfliegst den Bärenschlosspark mit seinen Seen. Wenn du unter dir auf eine Straße durch den Wald triffst, folge ihr nach links in Richtung Nord-Nordost bis zum Schloss Solitude.</Descr>
               <ATCWaypointStart id="POI3">
                 <idRegion>!A</idRegion>
               </ATCWaypointStart>
@@ -47,7 +47,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>Von Schloss Solitude führt eine Schneise (und später dann eine Straße) ganz gerade zum Schloss in Ludwigsburg. Folge dieser gut sichtbaren Linie in der Landschaft.</Descr>
+              <Descr>Von Schloss Solitude führt eine Schneise (und später dann eine Straße) in direkter Linie zum Schloss in Ludwigsburg. Folge dieser gut sichtbaren Linie in der Landschaft.</Descr>
               <ATCWaypointStart id="POI4">
                 <idRegion>!A</idRegion>
               </ATCWaypointStart>
@@ -97,7 +97,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>Bei Schorndorf macht die B29 einen großen Bogen an der linken Talseite. Vor dir kannst du die Wieslauf von links kommend in die Rems münden sehen. Überfliege die Seen des Landschaftsschutzgebietes "Morgensand und Seelachen" bei Urbach und folge der Rems weiter durch das enger werdende Tal bis nach Schwäbisch Gmünd.</Descr>
+              <Descr>Bei Schorndorf macht die B29 einen großen Bogen an der linken Talseite. Vor dir kannst du die von links kommende Wieslauf in die Rems münden sehen. Überfliege die Seen des Landschaftsschutzgebietes "Morgensand und Seelachen" bei Urbach und folge der Rems weiter durch das enger werdende Tal bis nach Schwäbisch Gmünd.</Descr>
               <ImagePath>images\Gmünd.png</ImagePath>
               <ATCWaypointStart id="POI3">
                 <idRegion>!B</idRegion>
