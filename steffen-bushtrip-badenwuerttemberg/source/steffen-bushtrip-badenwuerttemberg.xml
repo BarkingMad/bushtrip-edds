@@ -56,7 +56,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>Hinter einem Wäldchen kannst du den Rangierbahnhof Kornwestheim rechts der Linie erkennen. Wenn etwa die Mitte des Rangierbahnhofs rechts von dir liegt, drehst du um etwa 70-80 Grad nach rechts. Direkt neben dem Golfplatz Neckartal liegt unser Etappenziel Pattonville.</Descr>
+              <Descr>Hinter einem Wäldchen kannst du den Rangierbahnhof Kornwestheim rechts der Linie erkennen. Wenn ungefähr die Mitte des Rangierbahnhofs rechts von dir liegt, drehst du um etwa 70 Grad nach rechts. Direkt neben dem Golfplatz Neckartal liegt dein Etappenziel Pattonville.</Descr>
               <ImagePath>images\EDTQ.png</ImagePath>
               <ATCWaypointStart id="POI5">
                 <idRegion>!A</idRegion>
