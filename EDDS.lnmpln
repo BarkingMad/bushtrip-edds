@@ -2,9 +2,9 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
   <Flightplan>
     <Header>
-      <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>10000</CruisingAlt>
-      <CreationDate>2020-11-28T11:08:41</CreationDate>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-12-02T21:59:48</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.4.beta</ProgramVersion>
@@ -13,8 +13,8 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <Departure>
-      <Pos Lon="9.200596" Lat="48.685822" Alt="1276.00"/>
-      <Start>07</Start>
+      <Pos Lon="9.213336" Lat="48.691719" Alt="1276.00"/>
+      <Start>PARKING 312</Start>
     </Departure>
     <Waypoints>
       <Waypoint>
@@ -26,94 +26,147 @@
       <Waypoint>
         <Ident>WP1</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.066849" Lat="48.726528" Alt="3429.93"/>
+        <Pos Lon="9.232015" Lat="48.691727" Alt="1404.94"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP2</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.113884" Lat="48.748039" Alt="4177.77"/>
+        <Pos Lon="9.070288" Lat="48.725227" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP3</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.080925" Lat="48.784019" Alt="5010.43"/>
+        <Pos Lon="9.112023" Lat="48.747585" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP4</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.128475" Lat="48.830036" Alt="6113.16"/>
+        <Pos Lon="9.080925" Lat="48.784019" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP5</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.173794" Lat="48.863697" Alt="7004.09"/>
+        <Pos Lon="9.173794" Lat="48.863697" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Pattonville</Name>
         <Ident>EDTQ</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="9.224076" Lat="48.864094" Alt="7659.46"/>
+        <Pos Lon="9.224076" Lat="48.864094" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP6</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.273988" Lat="48.873634" Alt="8336.78"/>
+        <Pos Lon="9.273988" Lat="48.873634" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP7</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.339562" Lat="48.819752" Alt="9704.39"/>
+        <Pos Lon="9.339562" Lat="48.819752" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP8</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.573194" Lat="48.802567" Alt="10000.00"/>
+        <Pos Lon="9.574908" Lat="48.804375" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP9</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.759789" Lat="48.787189" Alt="10000.00"/>
+        <Pos Lon="9.759789" Lat="48.787189" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Flugplatz Hornberg</Name>
+        <Ident>ED36</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.861332" Lat="48.746262" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP10</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.828454" Lat="48.802456" Alt="10000.00"/>
+        <Pos Lon="9.903296" Lat="48.822124" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP11</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.859353" Lat="48.794312" Alt="10000.00"/>
+        <Pos Lon="9.996509" Lat="48.822464" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP12</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.929085" Lat="48.803303" Alt="9632.38"/>
+        <Pos Lon="10.092506" Lat="48.833084" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP13</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.092506" Lat="48.833084" Alt="7420.47"/>
+        <Pos Lon="10.127143" Lat="48.880524" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP14</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.114822" Lat="48.873295" Alt="6572.40"/>
+        <Pos Lon="10.165977" Lat="48.885262" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP15</Ident>
         <Type>USER</Type>
-        <Pos Lon="10.165977" Lat="48.885262" Alt="5865.01"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP16</Ident>
-        <Type>USER</Type>
-        <Pos Lon="10.341072" Lat="48.862907" Alt="3540.94"/>
+        <Pos Lon="10.346890" Lat="48.863586" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Nördlingen</Name>
         <Ident>EDNO</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="10.506109" Lat="48.871151" Alt="1384.00"/>
+        <Pos Lon="10.506109" Lat="48.871151" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP16</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.690958" Lat="48.784588" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP17</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.758936" Lat="48.696400" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP18</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.404549" Lat="48.554340" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Gundelfingen</Name>
+        <Ident>EDMU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.357932" Lat="48.569412" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP19</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.280094" Lat="48.460629" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP20</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.301723" Lat="48.424416" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP21</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.296144" Lat="48.224903" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP22</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.126286" Lat="48.200878" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP23</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.149374" Lat="47.998653" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Allgäu</Name>
+        <Ident>EDJA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.239487" Lat="47.988808" Alt="2066.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

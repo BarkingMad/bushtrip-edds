@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="Windows-1252"?>
-<SimBase.Document Type="MissionFile" version="1,0" id="steffen-bushtrip-badenwuerttemberg">
-  <Title>TT:steffen-bushtrip-badenwuerttemberg.Mission.2</Title>
-  <Filename>steffen-bushtrip-badenwuerttemberg.spb</Filename>
+<SimBase.Document Type="MissionFile" version="1,0" id="unknown-bushtrip-generated">
+  <Title>unknown-bushtrip-generated</Title>
+  <Filename>unknown-bushtrip-generated.spb</Filename>
   <WorldBase.Flight InstanceId="{9104F8D7-DC5B-453D-A7A4-6FE64834CF9A}">
-    <SimMission.MissionBushTrip InstanceId="{3A6B7600-FAF1-4840-897B-D19749B4F698}" id="Bushtrip_steffen-bushtrip-badenwuerttemberg">
-      <Descr>steffen-bushtrip-badenwuerttemberg</Descr>
+    <SimMission.MissionBushTrip InstanceId="{3A6B7600-FAF1-4840-897B-D19749B4F698}" id="Bushtrip_unknown-bushtrip-generated">
+      <Descr>unknown-bushtrip-generated</Descr>
       <Legs>
         <Leg>
           <Descr>DESC1</Descr>
           <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A001}" />
           <SubLegs>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.10</Descr>
+              <Descr>DESC4</Descr>
               <ATCWaypointStart id="EDDS">
               </ATCWaypointStart>
               <ATCWaypointEnd id="POI1">
@@ -19,7 +19,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.11</Descr>
+              <Descr>DESC6</Descr>
               <ATCWaypointStart id="POI1">
                 <idRegion>!A</idRegion>
               </ATCWaypointStart>
@@ -28,8 +28,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.12</Descr>
-              <ImagePath>images\uni.png</ImagePath>
+              <Descr>DESC8</Descr>
               <ATCWaypointStart id="POI2">
                 <idRegion>!A</idRegion>
               </ATCWaypointStart>
@@ -38,7 +37,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.13</Descr>
+              <Descr>DESC10</Descr>
               <ATCWaypointStart id="POI3">
                 <idRegion>!A</idRegion>
               </ATCWaypointStart>
@@ -47,7 +46,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.14</Descr>
+              <Descr>DESC12</Descr>
               <ATCWaypointStart id="POI4">
                 <idRegion>!A</idRegion>
               </ATCWaypointStart>
@@ -56,7 +55,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.15</Descr>
+              <Descr>DESC14</Descr>
               <ImagePath>images\EDTQ.png</ImagePath>
               <ATCWaypointStart id="POI5">
                 <idRegion>!A</idRegion>
@@ -71,7 +70,7 @@
           <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A002}" />
           <SubLegs>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.16</Descr>
+              <Descr>DESC16</Descr>
               <ATCWaypointStart id="EDTQ">
               </ATCWaypointStart>
               <ATCWaypointEnd id="POI6">
@@ -79,7 +78,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.17</Descr>
+              <Descr>DESC18</Descr>
               <ATCWaypointStart id="POI6">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
@@ -88,7 +87,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.18</Descr>
+              <Descr>DESC20</Descr>
               <ATCWaypointStart id="POI7">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
@@ -97,8 +96,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.19</Descr>
-              <ImagePath>images\Gmuend.png</ImagePath>
+              <Descr>DESC22</Descr>
               <ATCWaypointStart id="POI8">
                 <idRegion>!B</idRegion>
               </ATCWaypointStart>
@@ -107,7 +105,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.20</Descr>
+              <Descr>DESC24</Descr>
               <ImagePath>images\ED36.png</ImagePath>
               <ATCWaypointStart id="POI9">
                 <idRegion>!B</idRegion>
@@ -122,7 +120,7 @@
           <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A003}" />
           <SubLegs>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.21</Descr>
+              <Descr>DESC26</Descr>
               <ATCWaypointStart id="ED36">
               </ATCWaypointStart>
               <ATCWaypointEnd id="POI10">
@@ -130,7 +128,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.22</Descr>
+              <Descr>DESC28</Descr>
               <ATCWaypointStart id="POI10">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
@@ -139,7 +137,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.23</Descr>
+              <Descr>DESC30</Descr>
               <ATCWaypointStart id="POI11">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
@@ -148,7 +146,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.24</Descr>
+              <Descr>DESC32</Descr>
               <ATCWaypointStart id="POI12">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
@@ -157,7 +155,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.25</Descr>
+              <Descr>DESC34</Descr>
               <ATCWaypointStart id="POI13">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
@@ -166,8 +164,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.26</Descr>
-              <ImagePath>images\Ipf.png</ImagePath>
+              <Descr>DESC36</Descr>
               <ATCWaypointStart id="POI14">
                 <idRegion>!C</idRegion>
               </ATCWaypointStart>
@@ -176,7 +173,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.27</Descr>
+              <Descr>DESC38</Descr>
               <ImagePath>images\EDNO.png</ImagePath>
               <ATCWaypointStart id="POI15">
                 <idRegion>!C</idRegion>
@@ -191,7 +188,7 @@
           <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A004}" />
           <SubLegs>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.28</Descr>
+              <Descr>DESC40</Descr>
               <ATCWaypointStart id="EDNO">
               </ATCWaypointStart>
               <ATCWaypointEnd id="POI16">
@@ -199,7 +196,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.29</Descr>
+              <Descr>DESC42</Descr>
               <ATCWaypointStart id="POI16">
                 <idRegion>!D</idRegion>
               </ATCWaypointStart>
@@ -208,8 +205,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.30</Descr>
-              <ImagePath>images\Faimingen.png</ImagePath>
+              <Descr>DESC44</Descr>
               <ATCWaypointStart id="POI17">
                 <idRegion>!D</idRegion>
               </ATCWaypointStart>
@@ -218,7 +214,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.31</Descr>
+              <Descr>DESC46</Descr>
               <ImagePath>images\EDMU.png</ImagePath>
               <ATCWaypointStart id="POI18">
                 <idRegion>!D</idRegion>
@@ -233,7 +229,7 @@
           <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A005}" />
           <SubLegs>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.32</Descr>
+              <Descr>DESC48</Descr>
               <ATCWaypointStart id="EDMU">
               </ATCWaypointStart>
               <ATCWaypointEnd id="POI19">
@@ -241,8 +237,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.33</Descr>
-              <ImagePath>images\Legoland.png</ImagePath>
+              <Descr>DESC50</Descr>
               <ATCWaypointStart id="POI19">
                 <idRegion>!E</idRegion>
               </ATCWaypointStart>
@@ -251,8 +246,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.34</Descr>
-              <ImagePath>images\OberriederWeiher.png</ImagePath>
+              <Descr>DESC52</Descr>
               <ATCWaypointStart id="POI20">
                 <idRegion>!E</idRegion>
               </ATCWaypointStart>
@@ -261,7 +255,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.35</Descr>
+              <Descr>DESC54</Descr>
               <ATCWaypointStart id="POI21">
                 <idRegion>!E</idRegion>
               </ATCWaypointStart>
@@ -270,7 +264,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.36</Descr>
+              <Descr>DESC56</Descr>
               <ATCWaypointStart id="POI22">
                 <idRegion>!E</idRegion>
               </ATCWaypointStart>
@@ -279,7 +273,7 @@
               </ATCWaypointEnd>
             </SubLeg>
             <SubLeg>
-              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.37</Descr>
+              <Descr>DESC58</Descr>
               <ImagePath>images\EDJA.png</ImagePath>
               <ATCWaypointStart id="POI23">
                 <idRegion>!E</idRegion>
@@ -425,6 +419,128 @@
     </SimMission.AirportCalculator>
     <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A003}">
       <AirportIdent>EDNO</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A004}">
+      <AirportIdent>EDMU</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A005}">
+      <AirportIdent>EDJA</AirportIdent>
       <ComputeAirportPolygon>true</ComputeAirportPolygon>
       <Activated>false</Activated>
       <CalculatorParameterList>

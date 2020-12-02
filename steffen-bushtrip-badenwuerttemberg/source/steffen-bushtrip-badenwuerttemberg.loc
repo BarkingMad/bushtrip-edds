@@ -476,7 +476,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC7"
+            "Text": "Du startest in Nördlingen in Richtung Norden und folgst, wie auch schon beim Anflug, dem Fluss Eger, der direkt neben dem Flugplatz vorbeifließt. Er führt dich in einer Kurve durch das Nördlinger Ries in Richtung Süden."
+          },
+          "de-DE": {
+            "Text": "Du startest in Nördlingen in Richtung Norden und folgst, wie auch schon beim Anflug, dem Fluss Eger, der direkt neben dem Flugplatz vorbeifließt. Er führt dich in einer Kurve durch das Nördlinger Ries in Richtung Süden."
           }
         }
       },
@@ -490,7 +493,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC9"
+            "Text": "Der Eger mündet am Rande des Ries in die Wörnitz. Diese führt dich stark mäandernd weiter in Richtung Süden, wo sie in die Donau mündet."
+          },
+          "de-DE": {
+            "Text": "Der Eger mündet am Rande des Ries in die Wörnitz. Diese führt dich stark mäandernd weiter in Richtung Süden, wo sie in die Donau mündet."
           }
         }
       },
@@ -504,7 +510,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC11"
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
+          },
+          "de-DE": {
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
           }
         }
       },
@@ -518,7 +527,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC13"
+            "Text": "Über dem Stausee Faimingen drehst du nach rechts ab und erreichst kurz darauf die Graspiste des Segelflugplatzes Gundelfingen, deinem Etappenziel."
+          },
+          "de-DE": {
+            "Text": "Über dem Stausee Faimingen drehst du nach rechts ab und erreichst kurz darauf die Graspiste des Segelflugplatzes Gundelfingen, deinem Etappenziel."
           }
         }
       },
@@ -532,7 +544,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC15"
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
           }
         }
       },
@@ -546,7 +561,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC17"
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
+          },
+          "de-DE": {
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
           }
         }
       },
@@ -560,7 +578,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC19"
+            "Text": "Drehe über dem Legoland nach Süden und folge der Günz, sobald du auf sie triffst weiter nach Süden. Etwa 12 Meilen später erreichst du den Oberrieder Weiher."
+          },
+          "de-DE": {
+            "Text": "Drehe über dem Legoland nach Süden und folge der Günz, sobald du auf sie triffst weiter nach Süden. Etwa 12 Meilen später erreichst du den Oberrieder Weiher."
           }
         }
       },
@@ -574,7 +595,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC21"
+            "Text": "Über dem Oberrieder Weiher änderst du deinen Kurs nach Westen und fliegst so lange weiter, bis du auf die A7 triffst, die von Norden nach Süden verläufst."
+          },
+          "de-DE": {
+            "Text": "Über dem Oberrieder Weiher änderst du deinen Kurs nach Westen und fliegst so lange weiter, bis du auf die A7 triffst, die von Norden nach Süden verläufst."
           }
         }
       },
@@ -588,7 +612,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC23"
+            "Text": "Folge der A7 nach Süden, bis zum Memminger Autobahnkreuz, wo sich A7 und A40 kreuzen."
+          },
+          "de-DE": {
+            "Text": "Folge der A7 nach Süden, bis zum Memminger Autobahnkreuz, wo sich A7 und A40 kreuzen."
           }
         }
       },
@@ -602,7 +629,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC25"
+            "Text": "Drehe über dem Autobahnkreuz Memmingen nach links und folge der A40 für ein sehr kurzes Stück, bis du hinter Memmingen auf deiner rechten Seite den Zielflughafen dieser Etappe erkennst."
+          },
+          "de-DE": {
+            "Text": "Drehe über dem Autobahnkreuz Memmingen nach links und folge der A40 für ein sehr kurzes Stück, bis du hinter Memmingen auf deiner rechten Seite den Zielflughafen dieser Etappe erkennst."
           }
         }
       },
