@@ -1,9 +1,9 @@
-<AssetPackage Name="steffen-bushtrip-badenwuerttemberg" Version="0.1.1">
+<AssetPackage Name="unknown-bushtrip-generated" Version="1.0.0">
 	<ItemSettings>
 		<ContentType>MISSION</ContentType>
-		<Title>Rund um Baden-Württemberg</Title>
-		<Manufacturer>Steffen</Manufacturer>
-		<Creator>Steffen</Creator>
+		<Title>unknown-bushtrip-generated</Title>
+		<Manufacturer>unknown</Manufacturer>
+		<Creator>unknown</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\steffen-bushtrip-badenwuerttemberg\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\steffen-bushtrip-badenwuerttemberg\</OutputDir>
+			<AssetDir>PackageDefinitions\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\unknown-bushtrip-generated</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="steffen-bushtrip-badenwuerttemberg">
+		<AssetGroup Name="unknown-bushtrip-generated">
 			<Type>Mission</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>source</AssetDir>
-			<OutputDir>Missions\steffen-bushtrip-badenwuerttembergDir\</OutputDir>
+			<OutputDir>Missions\unknown-bushtrip-generatedDir</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
