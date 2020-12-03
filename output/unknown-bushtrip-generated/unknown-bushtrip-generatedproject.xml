@@ -1,8 +1,0 @@
-<Project Version="2" Name="unknown-bushtrip-generatedproject" FolderName="Packages">
-	<OutputDirectory>.</OutputDirectory>
-	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
-	<Packages>
-		<Package>PackageDefinitions\unknown-bushtrip-generated.xml</Package>
-	</Packages>
-</Project>
-
