@@ -2,14 +2,14 @@
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
        <FlightPlan.FlightPlan>
-        <Title>EDDS to EDNO</Title>
+        <Title>EDDS to EDDS</Title>
         <FPType>VFR</FPType>
         <CruisingAlt>1000</CruisingAlt>
         <DepartureID>EDDS</DepartureID>
         <DepartureLLA>N48° 41' 30.19",E9° 12' 48.01",+001276.00</DepartureLLA>
-        <DestinationID>EDNO</DestinationID>
-        <DestinationLLA>N48° 52' 16.14",E10° 30' 21.99",+001384.00</DestinationLLA>
-        <Descr>EDDS, EDNO</Descr>
+        <DestinationID>EDDS</DestinationID>
+        <DestinationLLA>N48° 41' 23.56",E9° 13' 19.07",+001276.00</DestinationLLA>
+        <Descr>EDDS, EDDS</Descr>
         <DeparturePosition></DeparturePosition>
         <DepartureName></DepartureName>
         <DestinationName></DestinationName>
@@ -27,7 +27,7 @@
         </ATCWaypoint>
         <ATCWaypoint id="POI1">
             <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N48° 41' 30.22",E9° 13' 55.25",+001404.32</WorldPosition>
+            <WorldPosition>N48° 41' 30.22",E9° 13' 55.25",+001412.46</WorldPosition>
         </ATCWaypoint>
         <ATCWaypoint id="POI2">
             <ATCWaypointType>User</ATCWaypointType>
@@ -101,7 +101,7 @@
         </ATCWaypoint>
         <ATCWaypoint id="EDNO">
             <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N48° 52' 16.14",E10° 30' 21.99",+001384.00</WorldPosition>
+            <WorldPosition>N48° 52' 16.14",E10° 30' 21.99",+003000.00</WorldPosition>
             <ICAO>
                 <ICAOIdent>EDNO</ICAOIdent>
             </ICAO>
@@ -147,7 +147,7 @@
         </ATCWaypoint>
         <ATCWaypoint id="EDJA">
             <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N47° 59' 19.71",E10° 14' 22.15",+002066.00</WorldPosition>
+            <WorldPosition>N47° 59' 19.71",E10° 14' 22.15",+003000.00</WorldPosition>
             <ICAO>
                 <ICAOIdent>EDJA</ICAOIdent>
             </ICAO>

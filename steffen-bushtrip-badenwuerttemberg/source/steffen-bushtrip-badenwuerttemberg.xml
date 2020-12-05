@@ -931,6 +931,738 @@
         </CalculatorAction>
       </CalculatorActions>
     </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A004}">
+      <AirportIdent>EDMU</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A005}">
+      <AirportIdent>EDJA</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A006}">
+      <AirportIdent>EDMK</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A007}">
+      <AirportIdent>EDNY</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A008}">
+      <AirportIdent>EDTZ</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A009}">
+      <AirportIdent>ED33</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A010}">
+      <AirportIdent>ED10</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A011}">
+      <AirportIdent>EDTL</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A012}">
+      <AirportIdent>EDSB</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A013}">
+      <AirportIdent>EDRY</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A014}">
+      <AirportIdent>EDGM</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A015}">
+      <AirportIdent>EDDS</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
 
     <SimMission.Goal InstanceId="{37569C05-B09F-493B-A2C3-2BF1A8215E2E}">
       <Descr>End of mission</Descr>
