@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>3000</CruisingAlt>
-      <CreationDate>2020-12-03T17:59:45</CreationDate>
+      <CreationDate>2020-12-04T18:04:31</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.4.beta</ProgramVersion>
@@ -26,7 +26,7 @@
       <Waypoint>
         <Ident>WP1</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.232015" Lat="48.691727" Alt="1414.33"/>
+        <Pos Lon="9.232015" Lat="48.691727" Alt="1412.46"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP2</Ident>
@@ -233,12 +233,7 @@
       <Waypoint>
         <Ident>WP34</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.321108" Lat="47.593430" Alt="3000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP35</Ident>
-        <Type>USER</Type>
-        <Pos Lon="9.177599" Lat="47.667007" Alt="3000.00"/>
+        <Pos Lon="9.195065" Lat="47.706066" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Konstanz</Name>
@@ -247,22 +242,22 @@
         <Pos Lon="9.139430" Lat="47.681389" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP36</Ident>
+        <Ident>WP35</Ident>
         <Type>USER</Type>
         <Pos Lon="9.059753" Lat="47.693356" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP37</Ident>
+        <Ident>WP36</Ident>
         <Type>USER</Type>
         <Pos Lon="8.891182" Lat="47.648273" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP38</Ident>
+        <Ident>WP37</Ident>
         <Type>USER</Type>
         <Pos Lon="8.629570" Lat="47.693817" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP39</Ident>
+        <Ident>WP38</Ident>
         <Type>USER</Type>
         <Pos Lon="8.605194" Lat="47.643879" Alt="3000.00"/>
       </Waypoint>
@@ -273,17 +268,17 @@
         <Pos Lon="8.386676" Lat="47.650864" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP40</Ident>
+        <Ident>WP39</Ident>
         <Type>USER</Type>
         <Pos Lon="8.263588" Lat="47.632545" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP41</Ident>
+        <Ident>WP40</Ident>
         <Type>USER</Type>
         <Pos Lon="8.149948" Lat="47.817764" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP42</Ident>
+        <Ident>WP41</Ident>
         <Type>USER</Type>
         <Pos Lon="8.010902" Lat="47.868458" Alt="3000.00"/>
       </Waypoint>
@@ -294,12 +289,12 @@
         <Pos Lon="7.956037" Lat="47.954742" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP43</Ident>
+        <Ident>WP42</Ident>
         <Type>USER</Type>
         <Pos Lon="7.824135" Lat="47.997734" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP44</Ident>
+        <Ident>WP43</Ident>
         <Type>USER</Type>
         <Pos Lon="7.721481" Lat="48.264000" Alt="3000.00"/>
       </Waypoint>
@@ -310,17 +305,17 @@
         <Pos Lon="7.827734" Lat="48.369247" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP45</Ident>
+        <Ident>WP44</Ident>
         <Type>USER</Type>
         <Pos Lon="7.756157" Lat="48.454708" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP46</Ident>
+        <Ident>WP45</Ident>
         <Type>USER</Type>
         <Pos Lon="7.795982" Lat="48.582966" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP47</Ident>
+        <Ident>WP46</Ident>
         <Type>USER</Type>
         <Pos Lon="7.970390" Lat="48.748039" Alt="3000.00"/>
       </Waypoint>
@@ -331,22 +326,22 @@
         <Pos Lon="8.080468" Lat="48.779362" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP48</Ident>
+        <Ident>WP47</Ident>
         <Type>USER</Type>
         <Pos Lon="8.161964" Lat="48.791939" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
+        <Ident>WP48</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.439927" Lat="48.971653" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
         <Ident>WP49</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.441429" Lat="48.995537" Alt="3000.00"/>
+        <Pos Lon="8.339505" Lat="49.086460" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>WP50</Ident>
-        <Type>USER</Type>
-        <Pos Lon="8.299980" Lat="49.016258" Alt="3000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP51</Ident>
         <Type>USER</Type>
         <Pos Lon="8.422890" Lat="49.253914" Alt="3000.00"/>
       </Waypoint>
@@ -357,12 +352,12 @@
         <Pos Lon="8.452320" Lat="49.302433" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP52</Ident>
+        <Ident>WP51</Ident>
         <Type>USER</Type>
         <Pos Lon="8.622360" Lat="49.281246" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP53</Ident>
+        <Ident>WP52</Ident>
         <Type>USER</Type>
         <Pos Lon="8.897018" Lat="49.239120" Alt="3000.00"/>
       </Waypoint>
@@ -373,24 +368,24 @@
         <Pos Lon="9.123609" Lat="49.399372" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP54</Ident>
+        <Ident>WP53</Ident>
         <Type>USER</Type>
         <Pos Lon="9.224548" Lat="49.181702" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP55</Ident>
+        <Ident>WP54</Ident>
         <Type>USER</Type>
         <Pos Lon="9.153481" Lat="49.004097" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP56</Ident>
+        <Ident>WP55</Ident>
         <Type>USER</Type>
         <Pos Lon="9.215622" Lat="48.836025" Alt="3000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP57</Ident>
+        <Ident>WP56</Ident>
         <Type>USER</Type>
-        <Pos Lon="9.259224" Lat="48.761848" Alt="2951.50"/>
+        <Pos Lon="9.259224" Lat="48.761848" Alt="2782.69"/>
       </Waypoint>
       <Waypoint>
         <Name>Stuttgart</Name>
