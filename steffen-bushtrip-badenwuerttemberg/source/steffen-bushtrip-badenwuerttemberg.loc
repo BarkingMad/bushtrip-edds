@@ -646,7 +646,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC27"
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
+          },
+          "de-DE": {
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
           }
         }
       },
@@ -660,7 +663,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC29"
+            "Text": "Folge der A7 weiter nach links in süd-östlicher Richtung, bis du Kempten erreichst. (siehe Bild)"
+          },
+          "de-DE": {
+            "Text": "Folge der A7 weiter nach links in süd-östlicher Richtung, bis du Kempten erreichst. (siehe Bild)"
           }
         }
       },
@@ -674,7 +680,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC31"
+            "Text": "Über dem Kleeblatt der Kreuzung A7 und B12 drehst du nach Süden. Hinter Kempten, vor dem Sulzberger See liegt das Etappenziel mit seinen gekreuzten Graspisten."
+          },
+          "de-DE": {
+            "Text": "Über dem Kleeblatt der Kreuzung A7 und B12 drehst du nach Süden. Hinter Kempten, vor dem Sulzberger See liegt das Etappenziel mit seinen gekreuzten Graspisten."
           }
         }
       },
@@ -688,7 +697,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC33"
+            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
+          },
+          "de-DE": {
+            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
           }
         }
       },
@@ -702,7 +714,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC35"
+            "Text": "Folge der B19 bis zum Ortsanfang von Immenstadt im Allgäu (siehe Bild)"
+          },
+          "de-DE": {
+            "Text": "Folge der B19 bis zum Ortsanfang von Immenstadt im Allgäu (siehe Bild)"
           }
         }
       },
@@ -716,7 +731,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC37"
+            "Text": "Drehe mit deinem Flieger nach rechts ab und fliege über den Großen Alpsee."
+          },
+          "de-DE": {
+            "Text": "Drehe mit deinem Flieger nach rechts ab und fliege über den Großen Alpsee."
           }
         }
       },
@@ -730,7 +748,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC2"
+            "Text": "Folge dem Tal mit seinem Flüsschen unter dir, bis zum Staufner Berg (siehe Bild) an dessen Ende."
+          },
+          "de-DE": {
+            "Text": "Folge dem Tal mit seinem Flüsschen unter dir, bis zum Staufner Berg (siehe Bild) an dessen Ende."
           }
         }
       },
@@ -744,7 +765,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC4"
+            "Text": "Am Staufner Berg fliegst du links vorbei und folgst dem dahinter in Flugrichtung liegenden Tal weiter."
+          },
+          "de-DE": {
+            "Text": "Am Staufner Berg fliegst du links vorbei und folgst dem dahinter in Flugrichtung liegenden Tal weiter."
           }
         }
       },
@@ -758,7 +782,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC6"
+            "Text": "Wenn das Tal an einigen Bergen endet, solltest du rechts von dir schon den Bodensee erkennen können. Drehe ebenfalls nach rechts und fliege zur Bregenzer Bucht am Ufer des Bodensees."
+          },
+          "de-DE": {
+            "Text": "Wenn das Tal an einigen Bergen endet, solltest du rechts von dir schon den Bodensee erkennen können. Drehe ebenfalls nach rechts und fliege zur Bregenzer Bucht am Ufer des Bodensees."
           }
         }
       },
@@ -772,7 +799,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC8"
+            "Text": "Vor dir kannst du sehen wie der Rhein in den Bodensee mündet. Rechts von dir solltest du die Insel Lindau sehen können. Fliege dorthin."
+          },
+          "de-DE": {
+            "Text": "Vor dir kannst du sehen wie der Rhein in den Bodensee mündet. Rechts von dir solltest du die Insel Lindau sehen können. Fliege dorthin."
           }
         }
       },
@@ -786,7 +816,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC10"
+            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
+          },
+          "de-DE": {
+            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
           }
         }
       },
@@ -800,7 +833,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC12"
+            "Text": "Am Ortsanfang von Friedrichshafen fliegst du eine Rechtskurve und solltest den Friedrichshafener Flughafen erkennen können. Landeerlaubnis erteilt."
+          },
+          "de-DE": {
+            "Text": "Am Ortsanfang von Friedrichshafen fliegst du eine Rechtskurve und solltest den Friedrichshafener Flughafen erkennen können. Landeerlaubnis erteilt."
           }
         }
       },
@@ -814,7 +850,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC14"
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
+          },
+          "de-DE": {
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
           }
         }
       },
@@ -828,7 +867,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC16"
+            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
+          },
+          "de-DE": {
+            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
           }
         }
       },
@@ -842,7 +884,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC18"
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
+          },
+          "de-DE": {
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
           }
         }
       },
@@ -856,7 +901,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC20"
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
+          },
+          "de-DE": {
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
           }
         }
       },
@@ -870,7 +918,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC22"
+            "Text": "Bei Stein am Rhein verändert sich der Bodensee wieder zu einem Fluss (siehe Bild). Folge dem Rhein in die Schweiz zum Rheinfall in Schaffhausen."
+          },
+          "de-DE": {
+            "Text": "Bei Stein am Rhein verändert sich der Bodensee wieder zu einem Fluss (siehe Bild). Folge dem Rhein in die Schweiz zum Rheinfall in Schaffhausen."
           }
         }
       },
@@ -884,7 +935,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC24"
+            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)."
+          },
+          "de-DE": {
+            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)"
           }
         }
       },
@@ -898,7 +952,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC26"
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
+          },
+          "de-DE": {
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
           }
         }
       },
@@ -912,7 +969,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC28"
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
           }
         }
       },
@@ -926,7 +986,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC30"
+            "Text": "Drehe über Waldshut-Tiengen nach Norden und fliege für etwa 10 Meilen, bis du links von dir einen großen See, den Schluchsee siehst."
+          },
+          "de-DE": {
+            "Text": "Drehe über Waldshut-Tiengen nach Norden und fliege für etwa 10 Meilen, bis du links von dir einen großen See, den Schluchsee siehst."
           }
         }
       },
@@ -940,7 +1003,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC32"
+            "Text": "Überfliege den Schluchsee in Längsrichtung und behalte die Flugrichtung bei. Das führt dich genau zum höchsten Berg Baden-Württembergs, dem Feldberg im Schwarzwald."
+          },
+          "de-DE": {
+            "Text": "Überfliege den Schluchsee in Längsrichtung und behalte die Flugrichtung bei. Das führt dich genau zum höchsten Berg Baden-Württembergs, dem Feldberg im Schwarzwald."
           }
         }
       },
@@ -954,7 +1020,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC34"
+            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
+          },
+          "de-DE": {
+            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
           }
         }
       },
@@ -968,7 +1037,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC36"
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
+          },
+          "de-DE": {
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
           }
         }
       },
@@ -982,7 +1054,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "DESC38"
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
+          },
+          "de-DE": {
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
           }
         }
       },
@@ -996,7 +1071,299 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Thank you for using BushMissionGen!"
+            "Text": "Vom Europapark aus sind es keine 8 Seemeilen mehr bis nach Lahr zur Landung. Die A5 führt dich auch dorthin."
+          },
+          "de-DE": {
+            "Text": "Vom Europapark aus sind es keine 8 Seemeilen mehr bis nach Lahr zur Landung. Die A5 führt dich auch dorthin."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.64": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568064",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.65": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568065",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge dem Rhein nach Norden, er führt dich auch in Strasbourg vorbei. Drehe dort doch eine kurze Runde über die Stadt, kannst du das Europaparlament finden?"
+          },
+          "de-DE": {
+            "Text": "Folge dem Rhein nach Norden, er führt dich auch in Strasbourg vorbei. Drehe dort doch eine kurze Runde über die Stadt, kannst du das Europaparlament finden?"
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.66": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568066",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge dem Rhein weiter, bis er nach einer kurzen sehr geraden Strecke eine doppelte S-Kurve beschreibt."
+          },
+          "de-DE": {
+            "Text": "Folge dem Rhein weiter, bis er nach einer kurzen sehr geraden Strecke eine doppelte S-Kurve beschreibt."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.67": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568067",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Das sogennate Rheinknie ist für dich der Hinweis, das das Etappenziel jetzt gleich rechts des Rheins liegt: Der Flughafen Karlsruhe-Baden."
+          },
+          "de-DE": {
+            "Text": "Das sogennate Rheinknie ist für dich der Hinweis, das das Etappenziel jetzt gleich rechts des Rheins liegt: Der Flughafen Karlsruhe-Baden."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.68": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568068",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach deinem Start schwenkst du nach rechts, bis du wieder die Autobahn A5 unter dir weißt."
+          },
+          "de-DE": {
+            "Text": "Nach deinem Start schwenkst du nach rechts, bis du wieder die Autobahn A5 unter dir weißt."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.69": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568069",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge der A5 wieder in nördlicher Richtung, bis du das Autobahndreieck Karlsruhe überfliegst, an dem sich A5 und A8 treffen."
+          },
+          "de-DE": {
+            "Text": "Folge der A5 wieder in nördlicher Richtung, bis du das Autobahndreieck Karlsruhe überfliegst, an dem sich A5 und A8 treffen."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.70": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568070",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+          },
+          "de-DE": {
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.71": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568071",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hinter Karlsruhe triffst du wieder auf den Rhein, der hier sehr viele alte Flussarme gebildet hat. Folge dem Rhein nach Norden!"
+          },
+          "de-DE": {
+            "Text": "Hinter Karlsruhe triffst du wieder auf den Rhein, der hier sehr viele alte Flussarme gebildet hat. Folge dem Rhein nach Norden!"
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.72": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568072",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Der Flugplatz von Speyer liegt unverfehlbar auf der Landzunge gelegen, die vom Rhein umflossen wird. Frei zur Landung."
+          },
+          "de-DE": {
+            "Text": "Der Flugplatz von Speyer liegt unverfehlbar auf der Landzunge gelegen, die vom Rhein umflossen wird. Frei zur Landung."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.73": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568073",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+          },
+          "de-DE": {
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.74": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568074",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+          },
+          "de-DE": {
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.75": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568075",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+          },
+          "de-DE": {
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.76": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568076",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+          },
+          "de-DE": {
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.77": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568077",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Neckarsulm mit dem riesigen Audi-Werksgelände ist gut zu erkennen, die dahinterliegende Stadt Heilbronn ebenfalls. Der Neckar führt dich in südlicher Richtung weiter in Richtung Stuttgart."
+          },
+          "de-DE": {
+            "Text": "Neckarsulm mit dem riesigen Audi-Werksgelände ist gut zu erkennen, die dahinterliegende Stadt Heilbronn ebenfalls. Der Neckar führt dich in südlicher Richtung weiter in Richtung Stuttgart."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.78": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568078",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Bei Besigheim macht der Neckar eine scharfe Kurve und fängt an, sich stark durch die Landschaft zu mäandern. Folge ihm trotzdem weiter. Erkennst du die Remsmündung wieder, wenn du daran vorbei fliegst?"
+          },
+          "de-DE": {
+            "Text": "Bei Besigheim macht der Neckar eine scharfe Kurve und fängt an, sich stark durch die Landschaft zu mäandern. Folge ihm trotzdem weiter. Erkennst du die Remsmündung wieder, wenn du daran vorbei fliegst?"
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.79": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568079",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Du bist richtig, wenn du am Ortsanfang von Stuttgart den Max-Eyth-See unter dir sehen kannst. Folge dem Neckar noch für ein kurzes Stück weiter."
+          },
+          "de-DE": {
+            "Text": "Du bist richtig, wenn du am Ortsanfang von Stuttgart den Max-Eyth-See unter dir sehen kannst. Folge dem Neckar noch für ein kurzes Stück weiter."
+          }
+        }
+      },
+      "steffen-bushtrip-badenwuerttemberg.Mission.80": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568080",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
+          },
+          "de-DE": {
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
           }
         }
       }

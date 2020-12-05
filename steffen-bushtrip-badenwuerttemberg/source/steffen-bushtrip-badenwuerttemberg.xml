@@ -289,6 +289,453 @@
             </SubLeg>
           </SubLegs>
         </Leg>
+        <Leg>
+          <Descr>DESC57</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A006}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.38</Descr>
+              <ATCWaypointStart id="EDJA">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI24">
+                <idRegion>!F</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.39</Descr>
+              <ImagePath>images\Kempten.png</ImagePath>
+              <ATCWaypointStart id="POI24">
+                <idRegion>!F</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI25">
+                <idRegion>!F</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.40</Descr>
+              <ImagePath>images\EDMK.png</ImagePath>
+              <ATCWaypointStart id="POI25">
+                <idRegion>!F</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDMK">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC63</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A007}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.41</Descr>
+              <ATCWaypointStart id="EDMK">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI26">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.42</Descr>
+              <ImagePath>images\Immenstadt.png</ImagePath>
+              <ATCWaypointStart id="POI26">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI27">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.43</Descr>
+              <ATCWaypointStart id="POI27">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI28">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.44</Descr>
+              <ImagePath>images\Staufner.png</ImagePath>
+              <ATCWaypointStart id="POI28">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI29">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.45</Descr>
+              <ATCWaypointStart id="POI29">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI30">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.46</Descr>
+              <ATCWaypointStart id="POI30">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI31">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.47</Descr>
+              <ATCWaypointStart id="POI31">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI32">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.48</Descr>
+              <ATCWaypointStart id="POI32">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI33">
+                <idRegion>!G</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.49</Descr>
+              <ImagePath>images\EDNY.png</ImagePath>
+              <ATCWaypointStart id="POI33">
+                <idRegion>!G</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDNY">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC81</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A008}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.50</Descr>
+              <ATCWaypointStart id="EDNY">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI34">
+                <idRegion>!H</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.51</Descr>
+              <ImagePath>images\EDTZ.png</ImagePath>
+              <ATCWaypointStart id="POI34">
+                <idRegion>!H</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDTZ">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC85</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A009}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.52</Descr>
+              <ATCWaypointStart id="EDTZ">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI35">
+                <idRegion>!I</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.53</Descr>
+              <ATCWaypointStart id="POI35">
+                <idRegion>!I</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI36">
+                <idRegion>!I</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.54</Descr>
+              <ImagePath>images\SteinAmRhein.png</ImagePath>
+              <ATCWaypointStart id="POI36">
+                <idRegion>!I</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI37">
+                <idRegion>!I</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.55</Descr>
+              <ImagePath>images\Rheinau.png</ImagePath>
+              <ATCWaypointStart id="POI37">
+                <idRegion>!I</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI38">
+                <idRegion>!I</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.56</Descr>
+              <ImagePath>images\ED33.png</ImagePath>
+              <ATCWaypointStart id="POI38">
+                <idRegion>!I</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="ED33">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC95</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A010}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.57</Descr>
+              <ATCWaypointStart id="ED33">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI39">
+                <idRegion>!J</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.58</Descr>
+              <ATCWaypointStart id="POI39">
+                <idRegion>!J</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI40">
+                <idRegion>!J</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.59</Descr>
+              <ImagePath>images\Feldberg.png</ImagePath>
+              <ATCWaypointStart id="POI40">
+                <idRegion>!J</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI41">
+                <idRegion>!J</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.60</Descr>
+              <ImagePath>images\ED10.png</ImagePath>
+              <ATCWaypointStart id="POI41">
+                <idRegion>!J</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="ED10">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC103</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A011}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.61</Descr>
+              <ATCWaypointStart id="ED10">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI42">
+                <idRegion>!K</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.62</Descr>
+              <ImagePath>images\Europapark.png</ImagePath>
+              <ATCWaypointStart id="POI42">
+                <idRegion>!K</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI43">
+                <idRegion>!K</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.63</Descr>
+              <ImagePath>images\EDTL.png</ImagePath>
+              <ATCWaypointStart id="POI43">
+                <idRegion>!K</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDTL">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC109</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A012}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.64</Descr>
+              <ATCWaypointStart id="EDTL">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI44">
+                <idRegion>!L</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.65</Descr>
+              <ATCWaypointStart id="POI44">
+                <idRegion>!L</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI45">
+                <idRegion>!L</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.66</Descr>
+              <ATCWaypointStart id="POI45">
+                <idRegion>!L</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI46">
+                <idRegion>!L</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.67</Descr>
+              <ImagePath>images\EDSB.png</ImagePath>
+              <ATCWaypointStart id="POI46">
+                <idRegion>!L</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDSB">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC117</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A013}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.68</Descr>
+              <ATCWaypointStart id="EDSB">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI47">
+                <idRegion>!M</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.69</Descr>
+              <ImagePath>images\KRH.png</ImagePath>
+              <ATCWaypointStart id="POI47">
+                <idRegion>!M</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI48">
+                <idRegion>!M</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.70</Descr>
+              <ATCWaypointStart id="POI48">
+                <idRegion>!M</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI49">
+                <idRegion>!M</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.71</Descr>
+              <ATCWaypointStart id="POI49">
+                <idRegion>!M</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI50">
+                <idRegion>!M</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.72</Descr>
+              <ImagePath>images\EDRY.png</ImagePath>
+              <ATCWaypointStart id="POI50">
+                <idRegion>!M</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDRY">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC127</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A014}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.73</Descr>
+              <ATCWaypointStart id="EDRY">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI51">
+                <idRegion>!N</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.74</Descr>
+              <ImagePath>images\Sinsheim.png</ImagePath>
+              <ATCWaypointStart id="POI51">
+                <idRegion>!N</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI52">
+                <idRegion>!N</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.75</Descr>
+              <ImagePath>images\EDGM.png</ImagePath>
+              <ATCWaypointStart id="POI52">
+                <idRegion>!N</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDGM">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
+        <Leg>
+          <Descr>DESC133</Descr>
+          <AirportLandingTriggerEnd UniqueRefId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A015}" />
+          <SubLegs>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.76</Descr>
+              <ATCWaypointStart id="EDGM">
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI53">
+                <idRegion>!O</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.77</Descr>
+              <ATCWaypointStart id="POI53">
+                <idRegion>!O</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI54">
+                <idRegion>!O</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.78</Descr>
+              <ATCWaypointStart id="POI54">
+                <idRegion>!O</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI55">
+                <idRegion>!O</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.79</Descr>
+              <ImagePath>images\MaxEyth.png</ImagePath>
+              <ATCWaypointStart id="POI55">
+                <idRegion>!O</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="POI56">
+                <idRegion>!O</idRegion>
+              </ATCWaypointEnd>
+            </SubLeg>
+            <SubLeg>
+              <Descr>TT:steffen-bushtrip-badenwuerttemberg.Mission.80</Descr>
+              <ImagePath>images\EDDS.png</ImagePath>
+              <ATCWaypointStart id="POI56">
+                <idRegion>!O</idRegion>
+              </ATCWaypointStart>
+              <ATCWaypointEnd id="EDDS">
+              </ATCWaypointEnd>
+            </SubLeg>
+          </SubLegs>
+        </Leg>
 
       </Legs>
       <Objectives>
@@ -425,6 +872,738 @@
     </SimMission.AirportCalculator>
     <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A003}">
       <AirportIdent>EDNO</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A004}">
+      <AirportIdent>EDMU</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A005}">
+      <AirportIdent>EDJA</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A006}">
+      <AirportIdent>EDMK</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A007}">
+      <AirportIdent>EDNY</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A008}">
+      <AirportIdent>EDTZ</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A009}">
+      <AirportIdent>ED33</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A010}">
+      <AirportIdent>ED10</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A011}">
+      <AirportIdent>EDTL</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A012}">
+      <AirportIdent>EDSB</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A013}">
+      <AirportIdent>EDRY</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A014}">
+      <AirportIdent>EDGM</AirportIdent>
+      <ComputeAirportPolygon>true</ComputeAirportPolygon>
+      <Activated>false</Activated>
+      <CalculatorParameterList>
+        <FormulaParameter NameInFormula="Threshold">
+          <StartValue>20.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="FarThreshold">
+          <StartValue>100.000</StartValue>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnGround">
+          <CalculatorFormula>
+            (A:SIM ON GROUND, Boolean) 0 &gt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OnRunway">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [Threshold] &lt;
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="TimerLanded">
+          <CalculatorFormula>
+            [OnRunway] [SignedDistanceToAirportArea] [Threshold] &lt; or [OnGround]  and (A:GROUND VELOCITY, Knots) 2 &lt; and
+            if{
+            [TimerLanded] [dtime] +
+            }
+            els{ 0 }
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="UnknownTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &gt; [OnGround] and [UnknownTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+        <FormulaParameter NameInFormula="OutsideTouchDown">
+          <CalculatorFormula>
+            [SignedDistanceToClosestRunway] [FarThreshold] &lt; [SignedDistanceToClosestRunway] [Threshold] &gt; [OnGround] and and [OutsideTouchDown] or
+          </CalculatorFormula>
+        </FormulaParameter>
+      </CalculatorParameterList>
+      <CalculatorActions>
+        <CalculatorAction>
+          <CalculatorFormula>
+            [OutsideTouchDown] [UnknownTouchDown] not and
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="ACT_NotifOutOfRunway" InstanceId="{952743E5-F838-4F51-A1A0-07E8DCD44019}" />
+          </Actions>
+        </CalculatorAction>
+        <CalculatorAction>
+          <DeactivateAfterExecution>true</DeactivateAfterExecution>
+          <CalculatorFormula>
+            [TimerLanded] 2 &gt;
+          </CalculatorFormula>
+          <Actions>
+            <WorldBase.ObjectReference id="FlowEvent_LandingRest" InstanceId="{F4FEBADA-8867-43E7-832D-947FAFCD8187}" />
+          </Actions>
+        </CalculatorAction>
+      </CalculatorActions>
+    </SimMission.AirportCalculator>
+    <SimMission.AirportCalculator InstanceId="{FEBB002C-519C-4FC9-ABEF-6ECEA508A015}">
+      <AirportIdent>EDDS</AirportIdent>
       <ComputeAirportPolygon>true</ComputeAirportPolygon>
       <Activated>false</Activated>
       <CalculatorParameterList>
